@@ -53,6 +53,10 @@ Voici les technologies et outils que j'utilise au quotidien pour donner vie à m
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="48" height="48" alt="PostgreSQL" />
       <br><strong>PostgreSQL</strong>
     </td>
+    <td align="center" height="108" width="108">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/quarkus/quarkus-original-wordmark.svg" width="48" height="48" alt="Quarkus"/>
+      <br><strong>Quarkus</strong>
+    </td>
   </tr>
   <tr>
     <td align="center" height="108" width="108">
@@ -78,6 +82,10 @@ Voici les technologies et outils que j'utilise au quotidien pour donner vie à m
     <td align="center" height="108" width="108">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" width="48" height="48" alt="Jira" />
       <br><strong>Jira</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/groovy/groovy-original.svg" width="48" height="48" alt="Groovy"/>
+      <br><strong>Groovy</strong>
     </td>
   </tr>
 </table>
